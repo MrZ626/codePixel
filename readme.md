@@ -6,9 +6,9 @@
 第一次自己做字体，图一乐
 
 # 特点
-仅支持半角英文字母 常用半角符号 和几个全角标点，后来看心情补充了一些乱七八糟的符号，具体有啥自己拆文件看吧
+仅支持相对常用的基础半角字母和符号，具体有啥自己拆文件看吧
 
-This font is made for coding. So it only supports half width English letters, commonly used half width symbols and several full width punctuation marks, and some random symbols which can be used in coding, check it yourself
+This font is made for coding. So it only supports basic English letters and some symbols, check it yourself
 
 # 使用软件
 使用FontCreator制作
@@ -16,6 +16,6 @@ This font is made for coding. So it only supports half width English letters, co
 Made with FontCreator
 
 # 授权
-你可以将这个字体任意使用，包括商用、设计、出版以及基于此字体开发自己的字体，但是在使用时请注明原作者(MrZ)，使用时无需通知我本人
+你可以将这个字体任意使用，包括商用、设计、出版以及基于此字体开发自己的字体，只要在使用时请注明原作者(MrZ)就行，使用时无需通知我本人（不过还是希望来说一声啦）
 
-You can use this font at will, including commercial, design, publishing and developing your own font based on this font, but please indicate the original author (MrZ)，no need to notify me
+You can use this font at will, including commercial, design, publishing and developing your own font based on this font, but please indicate the original author (MrZ)，no need to notify me (though I hope you can notify me :D)
