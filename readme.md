@@ -24,6 +24,20 @@ Made with FontCreator
 
 You can use this font at will, including commercial, design, publishing and developing your own font based on this font, but please indicate the original author (MrZ)，no need to notify me (though I hope you can notify me :D)
 
+# 三种主要字母风格说明
+
+拉丁字母：基础像素
+
+希腊字母：细节像素
+
+西里尔字母：基础像素，带衬线
+
+Latin: Basic pixel style
+
+Greek: Pixel style with more details
+
+Cyrillic: Basic pixel style with serifs
+
 # 一些技术细节
 
 Ascender: 1024
