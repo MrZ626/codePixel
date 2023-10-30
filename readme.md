@@ -2,15 +2,27 @@
 
 # 起因
 
-有一天突然想找个等宽的像素字体写代码用，结果没找着，那就自己做一个吧！
+有一天突然想找个等宽的像素字体写代码用，结果没找着合适的，那就自己做一个吧！
 
 第一次自己做字体，图一乐
 
+> GPT3.5 used for English translation:
+
+One day, I suddenly felt the need for a monospaced pixel-style font for coding, but couldn't find a suitable one. So let's make one!
+
+This is my first attempt at creating a font, result cannot be professional.
+
 # 特点
 
-仅支持相对常用的基础半角字母和符号，具体有啥自己拆文件看吧
+只是像素风格，并不是真的像素字体，因为像素字体的限制太大，很容易让比例变形，所以本字体中有很多笔划不是完全对齐的，整体看着会更协调，不仔细看不会发现异常。
 
-This font is made for coding. So it only supports basic English letters and some symbols, check it yourself
+不支持中文，具体字符集自己用工具看吧
+
+> GPT3.5 used for English translation:
+
+This font is designed in a pixel style but is not a true pixel font. True pixel fonts have significant limitations and can easily distort proportions. As a result, many strokes in this font are not perfectly aligned. However, this gives it a more harmonious overall look, and you won't notice any issues unless you look closely.
+
+Note that this font does not support Chinese characters. Check the supported characters yourself.
 
 # 使用软件
 
