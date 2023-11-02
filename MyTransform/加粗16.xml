@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+  <TransformScript>
+    <EffectsBold>
+      <Horizontal>16</Horizontal>
+      <Vertical>16</Vertical>
+      <PreserveBearings>TRUE</PreserveBearings>
+      <UpdateMetrics>FALSE</UpdateMetrics>
+    </EffectsBold>
+  </TransformScript>
+</DATA>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+  <TransformScript>
+    <EffectsBold>
+      <Horizontal>25</Horizontal>
+      <Vertical>5</Vertical>
+      <PreserveBearings>FALSE</PreserveBearings>
+      <UpdateMetrics>FALSE</UpdateMetrics>
+    </EffectsBold>
+    <MetricsWidth>
+      <WidthType>0</WidthType>
+      <Width>1024.00</Width>
+      <Adjust>0</Adjust>
+    </MetricsWidth>
+  </TransformScript>
+</DATA>
