@@ -18,7 +18,7 @@ This is my first attempt at creating a font, result cannot be professional.
 
 不支持中文，具体字符集自己用工具看吧
 
-fallback中文字体推荐“DinkieBitmap 9px” “VonwaonBitmap 12px” “unifont”，像素数依次递增可读性越好但风格越不一致，可以根据个人喜好选择
+fallback中文字体推荐“DinkieBitmap 9px” “VonwaonBitmap 12px” “unifont”，像素数依次递增，可以根据个人喜好选择，个人推荐第二个，风格最统一
 
 > GPT used for English translation:
 
@@ -26,7 +26,7 @@ This font is designed in a pixel style but is not a true pixel font. True pixel 
 
 Note that this font does not support Chinese characters. Check the supported characters yourself.
 
-For fallback Chinese fonts, I recommend "DinkieBitmap 9px" "VonwaonBitmap 12px" "unifont". The number of pixels increases in that order, which improves readability but makes the styles less consistent. You can choose according to your personal preference.
+For fallback fonts, I recommend "DinkieBitmap 9px", "VonwaonBitmap 12px", and "unifont". The pixel sizes increase in order, and you can choose based on your personal preference. I personally recommend the second one, as it has the most consistent style.
 
 # 使用软件
 
