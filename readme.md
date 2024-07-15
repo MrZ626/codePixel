@@ -16,17 +16,13 @@ This is my first attempt at creating a font, result cannot be professional.
 
 只是像素风格，并不是真的像素字体，因为像素字体的限制太大，很容易让比例变形，所以本字体中有很多笔划不是完全对齐的，整体看着会更协调，不仔细看不会发现异常。
 
-不支持中文，具体字符集自己用工具看吧
-
-fallback中文字体推荐“DinkieBitmap 9px” “VonwaonBitmap 12px” “unifont”，像素数依次递增，可以根据个人喜好选择，个人推荐第二个，风格最统一
+中文部分有6763个CJK字符，全部来自 timothyqiu 制作的CC0协议的字体 [Vonwoan Bitmap](https://timothyqiu.itch.io/vonwaon-bitmap)
 
 > GPT used for English translation:
 
 This font is designed in a pixel style but is not a true pixel font. True pixel fonts have significant limitations and can easily distort proportions. As a result, many strokes in this font are not perfectly aligned. However, this gives it a more harmonious overall look, and you won't notice any issues unless you look closely.
 
-Note that this font does not support Chinese characters. Check the supported characters yourself.
-
-For fallback fonts, I recommend "DinkieBitmap 9px", "VonwaonBitmap 12px", and "unifont". The pixel sizes increase in order, and you can choose based on your personal preference. I personally recommend the second one, as it has the most consistent style.
+Contains 6763 CJK characters, all from the CC0-licensed font [Vonwoan Bitmap](https://timothyqiu.itch.io/vonwaon-bitmap) created by timothyqiu.
 
 # 使用软件
 
@@ -34,11 +30,24 @@ For fallback fonts, I recommend "DinkieBitmap 9px", "VonwaonBitmap 12px", and "u
 
 Made with FontCreator
 
-# 授权
+# 授权协议
 
-你可以将这个字体任意使用，包括商用、设计、出版以及基于此字体开发自己的字体，只要在使用时请注明原作者(MrZ_26)就行，使用时无需通知我本人（不过还是希望来说一声啦）
+本字体采用 SIL Open Font License 1.1 授权发布。该许可协议允许您自由使用、修改和发布字体，包括将其用于商业目的。
 
-You can use this font at will, including commercial, design, publishing and developing your own font based on this font, but please indicate the original author (MrZ_26)，no need to notify me (though I hope you can notify me :D)
+人话：可以随便拿来使用和创作，别直接拿个字体文件转手卖钱当倒狗就行
+
+如果是用于创作你自己的作品的话你可以随便在哪标一下作者(MrZ_26)，然后也可以通知一下我来看看！（不标作者不通知也没事）
+
+详细参考资料: <https://openfontlicense.org>
+
+> GPT used for English translation:
+
+This font is licensed under the SIL Open Font License 1.1. This license allows you to freely use, modify, and distribute the font, including for commercial purposes.
+
+Feel free to use and create with this font, just don't resell it as is without making any changes.
+If you use it to create your own work, you can credit the author (MrZ_26) somewhere and let me know (but it's not mandatory).
+
+More information at: <https://openfontlicense.org>
 
 # 三种主要字母风格说明
 
